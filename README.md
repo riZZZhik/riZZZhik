@@ -42,7 +42,7 @@
  </div>
 </div>
 
------
+<br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
 ## <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="Node" width=24> My GitHub Activity
 <!--START_SECTION:activity-->
@@ -53,7 +53,7 @@
 5. 🎉 Merged PR [#25](https://github.com/riZZZhik/belinsky/pull/25) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
 <!--END_SECTION:activity-->
 
------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
 ## 👨‍💻 My WakaTime statistics:
 <!--START_SECTION:waka-->
