@@ -42,7 +42,13 @@
  </div>
 </div>
 
-<br><br><br>
+-----
+
+## <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="Node" width=24> My GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+-----
 
 ## 👨‍💻 My WakaTime statistics:
 <!--START_SECTION:waka-->
