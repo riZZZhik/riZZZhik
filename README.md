@@ -46,6 +46,11 @@
 
 ## <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="Node" width=24> My GitHub Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#27](https://github.com/riZZZhik/belinsky/pull/27) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
+2. 💪 Opened PR [#27](https://github.com/riZZZhik/belinsky/pull/27) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
+3. 🎉 Merged PR [#26](https://github.com/riZZZhik/belinsky/pull/26) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
+4. 💪 Opened PR [#26](https://github.com/riZZZhik/belinsky/pull/26) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
+5. 🎉 Merged PR [#25](https://github.com/riZZZhik/belinsky/pull/25) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
 <!--END_SECTION:activity-->
 
 -----
