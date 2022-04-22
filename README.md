@@ -46,11 +46,11 @@
 
 ## <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="Node" width=24> My GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/riZZZhik/belinsky/pull/27) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
-2. 💪 Opened PR [#27](https://github.com/riZZZhik/belinsky/pull/27) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
-3. 🎉 Merged PR [#26](https://github.com/riZZZhik/belinsky/pull/26) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
-4. 💪 Opened PR [#26](https://github.com/riZZZhik/belinsky/pull/26) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
-5. 🎉 Merged PR [#25](https://github.com/riZZZhik/belinsky/pull/25) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
+1. 🎉 Merged PR [#30](https://github.com/riZZZhik/belinsky/pull/30) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
+2. 💪 Opened PR [#30](https://github.com/riZZZhik/belinsky/pull/30) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
+3. 🎉 Merged PR [#29](https://github.com/riZZZhik/belinsky/pull/29) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
+4. 💪 Opened PR [#29](https://github.com/riZZZhik/belinsky/pull/29) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
+5. 🎉 Merged PR [#28](https://github.com/riZZZhik/belinsky/pull/28) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
 <!--END_SECTION:activity-->
 
 ![Github activity graph](https://activity-graph.herokuapp.com/graph?username=riZZZhik&bg_color=282C34&color=E3BE7A&line=DE6D74&point=E3BE7A&hide_border=true&area=true&area_color=DE6D74)
