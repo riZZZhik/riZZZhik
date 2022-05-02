@@ -59,7 +59,7 @@
 
 ## 👨‍💻 My WakaTime statistics:
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-174-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-170-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--125%20Thousand%20lines%20of%20code-blue)
 
@@ -81,7 +81,7 @@
 ⌚︎ Time Zone: Europe/Moscow
 
 🐱‍💻 Projects: 
-belinsky                 7 hrs 31 mins       █████████████████████████   100.0%
+belinsky                 4 hrs 41 mins       █████████████████████████   100.0%
 
 ```
 
