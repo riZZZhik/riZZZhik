@@ -59,13 +59,13 @@
 
 ## 👨‍💻 My WakaTime statistics:
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--125%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 427 Contributions in the Year 2022
+> 🏆 445 Contributions in the Year 2022
  > 
 > 📦 797.7 kB Used in GitHub's Storage 
  > 
@@ -81,9 +81,11 @@
 ⌚︎ Time Zone: Europe/Moscow
 
 🐱‍💻 Projects: 
-belinsky                 1 hr 9 mins         ███████████████████░░░░░░   79.18% 
-School                   17 mins             █████░░░░░░░░░░░░░░░░░░░░   20.49% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
+belinsky                 2 hrs 45 mins       ██████████████████████░░░   89.79% 
+School                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.9% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16% 
+riZZZhik                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15% 
+homebrew                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
