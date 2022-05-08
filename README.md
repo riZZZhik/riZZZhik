@@ -59,7 +59,9 @@
 
 ## 👨‍💻 My WakaTime statistics:
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--125%20Thousand%20lines%20of%20code-blue)
 
@@ -81,10 +83,10 @@
 ⌚︎ Time Zone: Europe/Moscow
 
 🐱‍💻 Projects: 
-belinsky                 3 hrs 36 mins       ███████████████████████░░   92.01% 
-School                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.75% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12% 
-riZZZhik                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12% 
+belinsky                 2 hrs 29 mins       ██████████████████████░░░   88.81% 
+School                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.85% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17% 
+riZZZhik                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17% 
 homebrew                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
