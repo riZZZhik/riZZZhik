@@ -83,7 +83,7 @@
 ⌚︎ Time Zone: Europe/Moscow
 
 🐱‍💻 Projects: 
-belinsky                 51 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
