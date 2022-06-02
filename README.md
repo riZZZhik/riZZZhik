@@ -46,11 +46,11 @@
 
 ## <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="Node" width=24> My GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51](https://github.com/riZZZhik/belinsky/issues/51) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
-2. 🎉 Merged PR [#47](https://github.com/riZZZhik/belinsky/pull/47) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
-3. 🗣 Commented on [#47](https://github.com/riZZZhik/belinsky/issues/47) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
-4. 🗣 Commented on [#48](https://github.com/riZZZhik/belinsky/issues/48) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
-5. 🗣 Commented on [#49](https://github.com/riZZZhik/belinsky/issues/49) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
+1. ❗️ Opened issue [#1885](https://github.com/romkatv/powerlevel10k/issues/1885) in [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)
+2. 🗣 Commented on [#51](https://github.com/riZZZhik/belinsky/issues/51) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
+3. 🎉 Merged PR [#47](https://github.com/riZZZhik/belinsky/pull/47) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
+4. 🗣 Commented on [#47](https://github.com/riZZZhik/belinsky/issues/47) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
+5. 🗣 Commented on [#48](https://github.com/riZZZhik/belinsky/issues/48) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
 <!--END_SECTION:activity-->
 
 ![Github activity graph](https://activity-graph.herokuapp.com/graph?username=riZZZhik&bg_color=282C34&color=E3BE7A&line=DE6D74&point=E3BE7A&hide_border=true&area=true&area_color=DE6D74)
