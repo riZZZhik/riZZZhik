@@ -61,7 +61,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--125%20Thousand%20lines%20of%20code-blue)
 
@@ -83,10 +83,10 @@
 ⌚︎ Time Zone: Europe/Moscow
 
 🐱‍💻 Projects: 
-tts-sdk                  1 hr 40 mins        ██████████████░░░░░░░░░░░   58.6% 
-Unknown Project          50 mins             ███████░░░░░░░░░░░░░░░░░░   29.09% 
-pauser                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.76% 
-rizhik                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.54%
+Unknown Project          50 mins             █████████░░░░░░░░░░░░░░░░   36.4% 
+pauser                   38 mins             ███████░░░░░░░░░░░░░░░░░░   28.33% 
+tts-sdk                  38 mins             ███████░░░░░░░░░░░░░░░░░░   28.33% 
+rizhik                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.94%
 
 ```
 
