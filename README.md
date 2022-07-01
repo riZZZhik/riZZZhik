@@ -63,11 +63,11 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--125%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--124%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 454 Contributions in the Year 2022
+> 🏆 466 Contributions in the Year 2022
  > 
 > 📦 797.7 kB Used in GitHub's Storage 
  > 
@@ -83,11 +83,11 @@
 ⌚︎ Time Zone: Europe/Moscow
 
 🐱‍💻 Projects: 
-nemo_new                 3 hrs 45 mins       ███████████████░░░░░░░░░░   59.84% 
-Unknown Project          2 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   32.74% 
-wandb                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.63% 
-dsbarsukov               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35% 
-rizhik                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
+nemo_new                 3 hrs 45 mins       █████████████░░░░░░░░░░░░   53.32% 
+Unknown Project          2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   30.14% 
+optimize_TensorRT        42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.93% 
+wandb                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.02% 
+dsbarsukov               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.2%
 
 ```
 
