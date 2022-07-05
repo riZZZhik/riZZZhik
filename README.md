@@ -61,7 +61,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--124%20Thousand%20lines%20of%20code-blue)
 
@@ -83,10 +83,10 @@
 ⌚︎ Time Zone: Europe/Moscow
 
 🐱‍💻 Projects: 
-nemo_new                 3 hrs 17 mins       ████████████████░░░░░░░░░   64.3% 
-Unknown Project          1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   20.5% 
-optimize_TensorRT        42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.78% 
-dsbarsukov               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42% 
+optimize_TensorRT        42 mins             █████████░░░░░░░░░░░░░░░░   37.57% 
+nemo_new                 36 mins             ████████░░░░░░░░░░░░░░░░░   32.48% 
+Unknown Project          21 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.63% 
+test                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.33% 
 belinsky                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
