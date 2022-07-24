@@ -61,7 +61,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--124%20Thousand%20lines%20of%20code-blue)
 
@@ -83,11 +83,11 @@
 ⌚︎ Time Zone: Europe/Moscow
 
 🐱‍💻 Projects: 
-tts-books                4 hrs 3 mins        ██████████████████░░░░░░░   74.1% 
-Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.65% 
-tts-sdk                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.55% 
+tts-books                4 hrs 3 mins        ██████████████████░░░░░░░   74.21% 
+Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.66% 
+tts-sdk                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
 .ssh                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.75% 
-mts_library_normalizator 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.27%
+mts_library_normalizator 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.28%
 
 ```
 
