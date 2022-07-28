@@ -11,7 +11,7 @@
  <div align="left" width="40%">
   <h3>💻 Technologies</h3>
   <a href="https://apple.com"><img alt="OS" src="https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=Apple"></a>
-  <a href="https://www.jetbrains.com/pycharm"><img alt="Editor" src="https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=PyCharm"></a>
+  <a href="https://code.visualstudio.com"><img alt="Editor" src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual Studio Code"></a>
   <a href="https://python.org"><img alt="Python" src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=blue"></a>
   <br>
   <h3>🛠️ Tools</h3>
