@@ -61,7 +61,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--124%20Thousand%20lines%20of%20code-blue)
 
@@ -83,11 +83,9 @@
 ⌚︎ Time Zone: Europe/Moscow
 
 🐱‍💻 Projects: 
-tts-books                3 hrs 59 mins       █████████████████░░░░░░░░   67.78% 
-mos_evaluation           43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
-tts-agent                34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.66% 
-Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.33% 
-riZZZhik                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61%
+tts-books                9 hrs 35 mins       ███████████████████░░░░░░   77.07% 
+mos_evaluation           2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.49% 
+tts-sdk                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.44%
 
 ```
 
