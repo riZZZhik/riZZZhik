@@ -59,7 +59,7 @@
 
 ## 👨‍💻 My WakaTime statistics:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-615%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-622%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -77,5 +77,15 @@
  > 
 > 🔑 0 Private Repositories  
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Moscow
+
+🐱‍💻 Projects: 
+tts-books                13 hrs 2 mins       █████████████████████████   100.0%
+
+```
+
 
 <!--END_SECTION:waka-->
