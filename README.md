@@ -46,10 +46,10 @@
 
 ## <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="Node" width=24> My GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#156592](https://github.com/microsoft/vscode/issues/156592) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🎉 Merged PR [#1](https://github.com/riZZZhik/optimize_tensorrt/pull/1) in [riZZZhik/optimize_tensorrt](https://github.com/riZZZhik/optimize_tensorrt)
-3. 💪 Opened PR [#1](https://github.com/riZZZhik/optimize_tensorrt/pull/1) in [riZZZhik/optimize_tensorrt](https://github.com/riZZZhik/optimize_tensorrt)
-4. 🗣 Commented on [#10971](https://github.com/ohmyzsh/ohmyzsh/issues/10971) in [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+1. 🎉 Merged PR [#66](https://github.com/riZZZhik/belinsky/pull/66) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
+2. ❗️ Opened issue [#156592](https://github.com/microsoft/vscode/issues/156592) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🎉 Merged PR [#1](https://github.com/riZZZhik/optimize_tensorrt/pull/1) in [riZZZhik/optimize_tensorrt](https://github.com/riZZZhik/optimize_tensorrt)
+4. 💪 Opened PR [#1](https://github.com/riZZZhik/optimize_tensorrt/pull/1) in [riZZZhik/optimize_tensorrt](https://github.com/riZZZhik/optimize_tensorrt)
 5. ❗️ Opened issue [#10971](https://github.com/ohmyzsh/ohmyzsh/issues/10971) in [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 <!--END_SECTION:activity-->
 
