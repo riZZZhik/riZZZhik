@@ -83,7 +83,7 @@
 ⌚︎ Time Zone: Europe/Moscow
 
 🐱‍💻 Projects: 
-tts-books                35 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
