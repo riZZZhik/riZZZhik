@@ -47,10 +47,10 @@
 ## <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="Node" width=24> My GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2154](https://github.com/warpdotdev/Warp/issues/2154) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-2. ❗️ Opened issue [#2154](https://github.com/warpdotdev/Warp/issues/2154) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-3. ❗️ Closed issue [#2153](https://github.com/warpdotdev/Warp/issues/2153) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-4. 🗣 Commented on [#2153](https://github.com/warpdotdev/Warp/issues/2153) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-5. ❗️ Opened issue [#2153](https://github.com/warpdotdev/Warp/issues/2153) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+2. 🗣 Commented on [#2154](https://github.com/warpdotdev/Warp/issues/2154) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+3. 🗣 Commented on [#2154](https://github.com/warpdotdev/Warp/issues/2154) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+4. 🗣 Commented on [#2154](https://github.com/warpdotdev/Warp/issues/2154) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+5. ❗️ Opened issue [#2154](https://github.com/warpdotdev/Warp/issues/2154) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
 <!--END_SECTION:activity-->
 
 ![Github activity graph](https://activity-graph.herokuapp.com/graph?username=riZZZhik&bg_color=282C34&color=E3BE7A&line=DE6D74&point=E3BE7A&hide_border=true&area=true&area_color=DE6D74)
