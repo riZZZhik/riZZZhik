@@ -59,7 +59,7 @@
 
 ## 👨‍💻 My WakaTime statistics:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-631%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-631%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -69,7 +69,7 @@
 
 > 🏆 484 Contributions in the Year 2022
  > 
-> 📦 797.9 kB Used in GitHub's Storage 
+> 📦 797.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -83,7 +83,7 @@
 ⌚︎ Time Zone: Europe/Moscow
 
 🐱‍💻 Projects: 
-test_tts_agent           41 mins             █████████████████████████   100.0%
+test_tts_agent           3 hrs 9 mins        █████████████████████████   100.0%
 
 ```
 
