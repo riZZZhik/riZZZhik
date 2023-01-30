@@ -1,7 +1,7 @@
 <div align="center">
  <img width="50%" alt="super_dog" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif"><br>
  <h1><img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width=24> Hi, I am Dmitry Barsukoff <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width=24></h1> 
- <h2>Python Machine Learning (esp. CV) developer</h2>
+ <h2>Python Machine Learning (esp. CV and TTS) developer</h2>
 </div>
 
 <div>
