@@ -61,13 +61,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-641%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--124%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2023
+> 🏆 1 Contributions in the Year 2023
  > 
 > 📦 797.9 kB Used in GitHub's Storage 
  > 
@@ -83,8 +83,8 @@
 ⌚︎ Time Zone: Europe/Moscow
 
 🐱‍💻 Projects: 
-test_tts_agent           30 mins             ██████████████████████░░░   90.73% 
-tts-sdk                  3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.27%
+test_tts_agent           21 mins             ████████████████████████░   99.14% 
+tts-sdk                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86%
 
 ```
 
