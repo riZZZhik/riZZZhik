@@ -46,11 +46,11 @@
 
 ## <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="Node" width=24> My GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/riZZZhik/riZZZhik/pull/1) in [riZZZhik/riZZZhik](https://github.com/riZZZhik/riZZZhik)
-2. 💪 Opened PR [#1](https://github.com/riZZZhik/riZZZhik/pull/1) in [riZZZhik/riZZZhik](https://github.com/riZZZhik/riZZZhik)
-3. 🗣 Commented on [#5333](https://github.com/triton-inference-server/server/issues/5333) in [triton-inference-server/server](https://github.com/triton-inference-server/server)
-4. ❗️ Opened issue [#5333](https://github.com/triton-inference-server/server/issues/5333) in [triton-inference-server/server](https://github.com/triton-inference-server/server)
-5. 🗣 Commented on [#3765](https://github.com/triton-inference-server/server/issues/3765) in [triton-inference-server/server](https://github.com/triton-inference-server/server)
+1. 🗣 Commented on [#5333](https://github.com/triton-inference-server/server/issues/5333) in [triton-inference-server/server](https://github.com/triton-inference-server/server)
+2. 🎉 Merged PR [#1](https://github.com/riZZZhik/riZZZhik/pull/1) in [riZZZhik/riZZZhik](https://github.com/riZZZhik/riZZZhik)
+3. 💪 Opened PR [#1](https://github.com/riZZZhik/riZZZhik/pull/1) in [riZZZhik/riZZZhik](https://github.com/riZZZhik/riZZZhik)
+4. 🗣 Commented on [#5333](https://github.com/triton-inference-server/server/issues/5333) in [triton-inference-server/server](https://github.com/triton-inference-server/server)
+5. ❗️ Opened issue [#5333](https://github.com/triton-inference-server/server/issues/5333) in [triton-inference-server/server](https://github.com/triton-inference-server/server)
 <!--END_SECTION:activity-->
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=riZZZhik&bg_color=282C34&color=E3BE7A&line=DE6D74&point=E3BE7A&hide_border=true&area=true&area_color=DE6D74)
