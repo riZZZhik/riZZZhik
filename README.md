@@ -59,11 +59,11 @@
 
 ## 👨‍💻 My WakaTime statistics:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-674%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-97%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -83,8 +83,9 @@
 ⌚︎ Time Zone: Europe/Moscow
 
 🐱‍💻 Projects: 
-tts-core                 16 hrs 41 mins      ████████████████████████░   98.51 % 
-tts-books                15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+tts-core                 16 hrs 14 mins      ████████████████████████░   97.94 % 
+tts-books                17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+tts-agent                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 boogie                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 ```
