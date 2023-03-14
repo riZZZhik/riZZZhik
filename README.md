@@ -46,11 +46,11 @@
 
 ## <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="Node" width=24> My GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#56](https://github.com/riZZZhik/belinsky/pull/56) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
-2. ❌ Closed PR [#60](https://github.com/riZZZhik/belinsky/pull/60) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
-3. ❌ Closed PR [#64](https://github.com/riZZZhik/belinsky/pull/64) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
-4. ❌ Closed PR [#75](https://github.com/riZZZhik/belinsky/pull/75) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
-5. ❌ Closed PR [#79](https://github.com/riZZZhik/belinsky/pull/79) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
+1. 🗣 Commented on [#5343](https://github.com/triton-inference-server/server/issues/5343) in [triton-inference-server/server](https://github.com/triton-inference-server/server)
+2. ❌ Closed PR [#56](https://github.com/riZZZhik/belinsky/pull/56) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
+3. ❌ Closed PR [#60](https://github.com/riZZZhik/belinsky/pull/60) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
+4. ❌ Closed PR [#64](https://github.com/riZZZhik/belinsky/pull/64) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
+5. ❌ Closed PR [#75](https://github.com/riZZZhik/belinsky/pull/75) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
 <!--END_SECTION:activity-->
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=riZZZhik&bg_color=282C34&color=E3BE7A&line=DE6D74&point=E3BE7A&hide_border=true&area=true&area_color=DE6D74)
