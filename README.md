@@ -59,7 +59,7 @@
 
 ## 👨‍💻 My WakaTime statistics:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-716%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-717%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
@@ -69,11 +69,11 @@
 
 > 📦 798.0 kB Used in GitHub's Storage 
  > 
-> 🏆 11 Contributions in the Year 2023
+> 🏆 9 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 17 Public Repositories 
+> 📜 15 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
@@ -83,10 +83,10 @@
 🕑︎ Time Zone: Europe/Moscow
 
 🐱‍💻 Projects: 
-tts-core                 2 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   40.61 % 
-tts-books                2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   33.91 % 
-tts-pipeline-bot         1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-dsbarsukov               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+tts-books                2 hrs 35 mins       ███████████░░░░░░░░░░░░░░   42.05 % 
+tts-core                 2 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   40.88 % 
+tts-pipeline-bot         31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+dsbarsukov               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
 ```
 
 
