@@ -61,7 +61,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-717%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-523.4%20thousand%20lines%20of%20code-blue)
 
@@ -83,10 +83,11 @@
 🕑︎ Time Zone: Europe/Moscow
 
 🐱‍💻 Projects: 
-tts-books                2 hrs 35 mins       ███████████░░░░░░░░░░░░░░   42.05 % 
-tts-core                 2 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   40.88 % 
-tts-pipeline-bot         31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-dsbarsukov               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+tts-core                 2 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   39.19 % 
+tts-books                2 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   38.27 % 
+tts-pipeline-bot         46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+dsbarsukov               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+tts-server-triton        14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 ```
 
 
