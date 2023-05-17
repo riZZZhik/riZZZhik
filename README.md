@@ -59,9 +59,9 @@
 
 ## 👨‍💻 My WakaTime statistics:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-774%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-779%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-523.4%20thousand%20lines%20of%20code-blue)
 
@@ -83,11 +83,11 @@
 🕑︎ Time Zone: Europe/Moscow
 
 🐱‍💻 Projects: 
-tts-core                 8 hrs 55 mins       ██████████████░░░░░░░░░░░   54.80 % 
-nemo_new                 4 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
-test-tts-agent           2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-tts-pipeline-bot         55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-tts-books                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+tts-core                 10 hrs 42 mins      ██████████████░░░░░░░░░░░   57.59 % 
+nemo_new                 4 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+test-tts-agent           2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+tts-pipeline-bot         55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+tmp                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 ```
 
 
