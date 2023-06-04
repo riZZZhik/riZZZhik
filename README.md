@@ -83,7 +83,7 @@
 🕑︎ Time Zone: Europe/Moscow
 
 🐱‍💻 Projects: 
-nemo_new                 9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
