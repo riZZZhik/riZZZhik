@@ -59,7 +59,7 @@
 
 ## 👨‍💻 My WakaTime statistics:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-794%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-794%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -83,8 +83,8 @@
 🕑︎ Time Zone: Europe/Moscow
 
 🐱‍💻 Projects: 
-tts-core                 52 mins             █████████████████████████   99.68 % 
-nemo_new                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+tts-core                 2 hrs 27 mins       █████████████████████████   99.89 % 
+nemo_new                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 
