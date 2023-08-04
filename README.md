@@ -46,10 +46,10 @@
 
 ## <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="Node" width=24> My GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5343](https://github.com/triton-inference-server/server/issues/5343#issuecomment-1635045201) in [triton-inference-server/server](https://github.com/triton-inference-server/server)
-2. 🗣 Commented on [#5343](https://github.com/triton-inference-server/server/issues/5343#issuecomment-1614339117) in [triton-inference-server/server](https://github.com/triton-inference-server/server)
-3. 🗣 Commented on [#5343](https://github.com/triton-inference-server/server/issues/5343#issuecomment-1545941571) in [triton-inference-server/server](https://github.com/triton-inference-server/server)
-4. ❌ Closed PR [#64](https://github.com/riZZZhik/belinsky/pull/64) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
+1. 🗣 Commented on [#10484](https://github.com/microsoft/onnxruntime/issues/10484#issuecomment-1663691941) in [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
+2. 🗣 Commented on [#5343](https://github.com/triton-inference-server/server/issues/5343#issuecomment-1635045201) in [triton-inference-server/server](https://github.com/triton-inference-server/server)
+3. 🗣 Commented on [#5343](https://github.com/triton-inference-server/server/issues/5343#issuecomment-1614339117) in [triton-inference-server/server](https://github.com/triton-inference-server/server)
+4. 🗣 Commented on [#5343](https://github.com/triton-inference-server/server/issues/5343#issuecomment-1545941571) in [triton-inference-server/server](https://github.com/triton-inference-server/server)
 5. ❌ Closed PR [#75](https://github.com/riZZZhik/belinsky/pull/75) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
 <!--END_SECTION:activity-->
 
