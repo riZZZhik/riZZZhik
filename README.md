@@ -61,19 +61,19 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-863%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-523.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-525.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 798.0 kB Used in GitHub's Storage 
+> 📦 798.1 kB Used in GitHub's Storage 
  > 
-> 🏆 9 Contributions in the Year 2023
+> 🏆 12 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 15 Public Repositories 
+> 📜 16 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
@@ -83,11 +83,11 @@
 🕑︎ Time Zone: Europe/Moscow
 
 🐱‍💻 Projects: 
-.zprezto                 1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   29.50 % 
-tts-server-triton        1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   29.12 % 
-tts-core                 31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-test-tts-core            29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-unmanned-evaluation      28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+dotfiles                 3 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   39.10 % 
+Unknown Project          1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+.zprezto                 1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+tts-server-triton        1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+tts-core                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 ```
 
 
