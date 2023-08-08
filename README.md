@@ -46,11 +46,11 @@
 
 ## <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="Node" width=24> My GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10484](https://github.com/microsoft/onnxruntime/issues/10484#issuecomment-1663691941) in [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
-2. 🗣 Commented on [#5343](https://github.com/triton-inference-server/server/issues/5343#issuecomment-1635045201) in [triton-inference-server/server](https://github.com/triton-inference-server/server)
-3. 🗣 Commented on [#5343](https://github.com/triton-inference-server/server/issues/5343#issuecomment-1614339117) in [triton-inference-server/server](https://github.com/triton-inference-server/server)
-4. 🗣 Commented on [#5343](https://github.com/triton-inference-server/server/issues/5343#issuecomment-1545941571) in [triton-inference-server/server](https://github.com/triton-inference-server/server)
-5. ❌ Closed PR [#75](https://github.com/riZZZhik/belinsky/pull/75) in [riZZZhik/belinsky](https://github.com/riZZZhik/belinsky)
+1. 🎉 Merged PR [#1](https://github.com/riZZZhik/dotfiles/pull/1) in [riZZZhik/dotfiles](https://github.com/riZZZhik/dotfiles)
+2. 💪 Opened PR [#1](https://github.com/riZZZhik/dotfiles/pull/1) in [riZZZhik/dotfiles](https://github.com/riZZZhik/dotfiles)
+3. 🗣 Commented on [#10484](https://github.com/microsoft/onnxruntime/issues/10484#issuecomment-1663691941) in [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
+4. 🗣 Commented on [#5343](https://github.com/triton-inference-server/server/issues/5343#issuecomment-1635045201) in [triton-inference-server/server](https://github.com/triton-inference-server/server)
+5. 🗣 Commented on [#5343](https://github.com/triton-inference-server/server/issues/5343#issuecomment-1614339117) in [triton-inference-server/server](https://github.com/triton-inference-server/server)
 <!--END_SECTION:activity-->
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=riZZZhik&bg_color=282C34&color=E3BE7A&line=DE6D74&point=E3BE7A&hide_border=true&area=true&area_color=DE6D74)
