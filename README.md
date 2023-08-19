@@ -59,7 +59,7 @@
 
 ## 👨‍💻 My WakaTime statistics:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-881%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-884%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -69,7 +69,7 @@
 
 > 📦 798.1 kB Used in GitHub's Storage 
  > 
-> 🏆 22 Contributions in the Year 2023
+> 🏆 23 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -83,11 +83,10 @@
 🕑︎ Time Zone: Europe/Moscow
 
 🐱‍💻 Projects: 
-tts-server-triton        8 hrs 33 mins       ██████████████████████░░░   88.53 % 
-unmanned-evaluation      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-punktuator_audio         16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-tts-core                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-tts-core-bot             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+tts-server-triton        8 hrs 32 mins       ████████████████████████░   96.08 % 
+tts-core                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+unmanned-evaluation      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+punktuator_audio         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 
