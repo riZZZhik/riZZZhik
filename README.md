@@ -46,11 +46,11 @@
 
 ## <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="Node" width=24> My GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5333](https://github.com/triton-inference-server/server/issues/5333#issuecomment-1715718600) in [triton-inference-server/server](https://github.com/triton-inference-server/server)
-2. 🗣 Commented on [#5333](https://github.com/triton-inference-server/server/issues/5333#issuecomment-1711400527) in [triton-inference-server/server](https://github.com/triton-inference-server/server)
-3. 🎉 Merged PR [#1](https://github.com/riZZZhik/dotfiles/pull/1) in [riZZZhik/dotfiles](https://github.com/riZZZhik/dotfiles)
-4. 💪 Opened PR [#1](https://github.com/riZZZhik/dotfiles/pull/1) in [riZZZhik/dotfiles](https://github.com/riZZZhik/dotfiles)
-5. 🗣 Commented on [#10484](https://github.com/microsoft/onnxruntime/issues/10484#issuecomment-1663691941) in [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
+1. 🗣 Commented on [#4006](https://github.com/James-Yu/LaTeX-Workshop/issues/4006#issuecomment-1717344663) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+2. 🗣 Commented on [#4006](https://github.com/James-Yu/LaTeX-Workshop/issues/4006#issuecomment-1717312296) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+3. 🗣 Commented on [#4006](https://github.com/James-Yu/LaTeX-Workshop/issues/4006#issuecomment-1717304490) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+4. 🗣 Commented on [#4006](https://github.com/James-Yu/LaTeX-Workshop/issues/4006#issuecomment-1717263943) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+5. 🗣 Commented on [#5333](https://github.com/triton-inference-server/server/issues/5333#issuecomment-1715718600) in [triton-inference-server/server](https://github.com/triton-inference-server/server)
 <!--END_SECTION:activity-->
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=riZZZhik&bg_color=282C34&color=E3BE7A&line=DE6D74&point=E3BE7A&hide_border=true&area=true&area_color=DE6D74)
