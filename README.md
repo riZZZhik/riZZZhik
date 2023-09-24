@@ -1,13 +1,13 @@
 <div align="center">
  <img width="50%" alt="super_dog" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif"><br>
- <h1><img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width=24> Hi, I am Dmitry Barsukoff <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width=24></h1> 
+ <h1><img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width=24> Hi, I am Dmitry Barsukoff <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width=24></h1>
  <h2>Python Machine Learning (esp. CV and TTS) developer</h2>
 </div>
 
 <div>
  <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=riZZZhik&theme=onedark&show_icons=true&hide_border=True&count_private=true">
  <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riZZZhik&layout=compact&theme=onedark&hide_border=True&count_private=true">
- 
+
  <div align="left" width="40%">
   <h3>💻 Technologies</h3>
   <a href="https://apple.com"><img alt="OS" src="https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=Apple"></a>
@@ -22,12 +22,13 @@
   <a href="https://opencv.org"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-OpenCV?style=flat&logo=OpenCV&logoColor=white&color=blue"></a>
   <a href="https://pytorch.org"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-PyTorch?style=flat&logo=PyTorch&logoColor=white&color=blue"></a>
   <a href="https://tensorflow.org"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-Tensorflow?style=flat&logo=Tensorflow&logoColor=white&color=blue"></a>
-  <a href="https://keras.io"><img alt="Keras" src="https://img.shields.io/badge/Keras-Keras?style=flat&logo=Keras&logoColor=white&color=blue"></a><br>
+  <a href="https://keras.io"><img alt="Keras" src="https://img.shields.io/badge/Keras-Keras?style=flat&logo=Keras&logoColor=white&color=blue"></a>
+  <a href="https://github.com/NVIDIA/NeMo"><img alt="Nemo" src="https://img.shields.io/badge/NeMo-TensorRT?style=flat&logo=Nvidia&logoColor=white&color=blue"></a><br>
   <a href="https://docs.openvino.ai"><img alt="OpenVINO" src="https://img.shields.io/badge/OpenVINO-OpenVINO?style=flat&logo=Intel&logoColor=white&color=blue"></a>
   <a href="https://developer.nvidia.com/tensorrt"><img alt="TensorRT" src="https://img.shields.io/badge/TensorRT-TensorRT?style=flat&logo=Nvidia&logoColor=white&color=blue"></a>
   <a href="https://developer.nvidia.com/embedded-computing"><img alt="Jetson" src="https://img.shields.io/badge/Jetson-Jetson?style=flat&logo=Nvidia&logoColor=white&color=blue"></a><br>
   <a href="https://docs.python.org/3/library/unittest.html"><img alt="Unittest" src="https://img.shields.io/badge/Unittest-Unittest?style=flat&logo=Python&logoColor=white&color=blue"></a>
-  <a href="https://flask.palletsprojects.com"><img alt="Flask" src="https://img.shields.io/badge/Flask-Flask?style=flat&logo=Flask&logoColor=white&color=blue"></a><br>
+  <a href="https://docs.pytest.org"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-Unittest?style=flat&logo=Python&logoColor=white&color=blue"></a><br>
   <a href="https://kafka.apache.org"><img alt="Kafka" src="https://img.shields.io/badge/Kafka-Kafka?style=flat&logo=ApacheKafka&logoColor=white&color=blue"></a>
   <a href="https://rabbiitmq.com"><img alt="Rabbit" src="https://img.shields.io/badge/Rabbit-Rabbit?style=flat&logo=RabbitMQ&logoColor=white&color=blue"></a>
   <a href="https://mongodb.com"><img alt="Mongo" src="https://img.shields.io/badge/Mongo-Mongo?style=flat&logo=MongoDB&logoColor=white&color=blue"></a>
@@ -45,6 +46,7 @@
 <br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
 ## <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="Node" width=24> My GitHub Activity
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4006](https://github.com/James-Yu/LaTeX-Workshop/issues/4006#issuecomment-1717344663) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
 2. 🗣 Commented on [#4006](https://github.com/James-Yu/LaTeX-Workshop/issues/4006#issuecomment-1717312296) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
@@ -58,6 +60,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
 ## 👨‍💻 My WakaTime statistics:
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-962%20hrs%208%20mins-blue)
 
