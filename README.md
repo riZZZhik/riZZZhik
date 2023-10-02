@@ -66,13 +66,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-528.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-528.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 803.8 kB Used in GitHub's Storage 
  > 
-> 🏆 60 Contributions in the Year 2023
+> 🏆 63 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -86,11 +86,11 @@
 🕑︎ Time Zone: Europe/Moscow
 
 🐱‍💻 Projects: 
-test-tts-core            6 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   33.89 % 
-hse_compds_1             4 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
-unmanned-evaluation      3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-tts-server-triton        1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-tts-core                 1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+hse_compds_1             4 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   30.28 % 
+test-tts-core            4 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.09 % 
+unmanned-evaluation      3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+tts-server-triton        1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+tts-core                 1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
 ```
 
 
