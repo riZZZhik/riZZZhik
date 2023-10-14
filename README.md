@@ -62,17 +62,17 @@
 ## 👨‍💻 My WakaTime statistics:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C020%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C021%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-530.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-530.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 806.7 kB Used in GitHub's Storage 
+> 📦 806.8 kB Used in GitHub's Storage 
  > 
-> 🏆 80 Contributions in the Year 2023
+> 🏆 82 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -86,11 +86,11 @@
 🕑︎ Time Zone: Europe/Moscow
 
 🐱‍💻 Projects: 
-hse_compds_1             13 hrs 30 mins      ██████████████░░░░░░░░░░░   55.21 % 
-icpc_2023                4 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-tts-core                 3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-unmanned-evaluation      1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-tts-server-triton        1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+hse_compds_1             17 hrs 27 mins      █████████████████░░░░░░░░   69.47 % 
+icpc_2023                4 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+unmanned-evaluation      1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+tts-server-triton        40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+tts-core                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 ```
 
 
