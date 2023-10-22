@@ -48,11 +48,11 @@
 ## <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="Node" width=24> My GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26729](https://github.com/microsoft/vscode/issues/26729#issuecomment-1749727339) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#4006](https://github.com/James-Yu/LaTeX-Workshop/issues/4006#issuecomment-1717344663) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
-3. 🗣 Commented on [#4006](https://github.com/James-Yu/LaTeX-Workshop/issues/4006#issuecomment-1717312296) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
-4. 🗣 Commented on [#4006](https://github.com/James-Yu/LaTeX-Workshop/issues/4006#issuecomment-1717304490) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
-5. 🗣 Commented on [#4006](https://github.com/James-Yu/LaTeX-Workshop/issues/4006#issuecomment-1717263943) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+1. 🚀 Published release [Refactored](https://github.com/riZZZhik/ShipBot/releases/tag/1.2.0) in [riZZZhik/ShipBot](https://github.com/riZZZhik/ShipBot)
+2. 🎉 Merged PR [#1](https://github.com/riZZZhik/ShipBot/pull/1) in [riZZZhik/ShipBot](https://github.com/riZZZhik/ShipBot)
+3. 💪 Opened PR [#1](https://github.com/riZZZhik/ShipBot/pull/1) in [riZZZhik/ShipBot](https://github.com/riZZZhik/ShipBot)
+4. 🗣 Commented on [#26729](https://github.com/microsoft/vscode/issues/26729#issuecomment-1749727339) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🗣 Commented on [#4006](https://github.com/James-Yu/LaTeX-Workshop/issues/4006#issuecomment-1717344663) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
 <!--END_SECTION:activity-->
 
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riZZZhik&bg_color=282C34&color=E3BE7A&line=DE6D74&point=E3BE7A&hide_border=true&area=true&area_color=DE6D74)
