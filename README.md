@@ -62,9 +62,9 @@
 ## 👨‍💻 My WakaTime statistics:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C045%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C046%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-532.7%20thousand%20lines%20of%20code-blue)
 
@@ -86,10 +86,11 @@
 🕑︎ Time Zone: Europe/Moscow
 
 🐱‍💻 Projects: 
-ShipBot                  5 hrs 45 mins       ██████████████████░░░░░░░   70.63 % 
-tts-core                 2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
-fitness_brouski          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-hse_compds_1             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+ShipBot                  2 hrs 45 mins       ████████████░░░░░░░░░░░░░   49.21 % 
+tts-core                 1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   29.14 % 
+hse_compds_1             51 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+fitness_brouski          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 ```
 
 
