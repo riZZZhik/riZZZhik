@@ -1,6 +1,10 @@
 <div align="center">
  <img width="50%" alt="super_dog" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif"><br>
- <h1><img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width=24> Hi, I am Dmitry Barsukoff <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width=24></h1>
+ <h1>
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24"/>
+    Hi, I am Dmitry Barsukoff
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24"/>
+ </h1>
  <h2>Python Machine Learning (esp. CV and TTS) developer</h2>
 </div>
 
@@ -48,6 +52,7 @@
 ## <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="Node" width=24> My GitHub Activity
 
 <!--START_SECTION:activity-->
+
 1. 🚀 Published release [Updated Database flow](https://github.com/riZZZhik/ShipBot/releases/tag/1.3.0) in [riZZZhik/ShipBot](https://github.com/riZZZhik/ShipBot)
 2. 🎉 Merged PR [#2](https://github.com/riZZZhik/ShipBot/pull/2) in [riZZZhik/ShipBot](https://github.com/riZZZhik/ShipBot)
 3. 💪 Opened PR [#2](https://github.com/riZZZhik/ShipBot/pull/2) in [riZZZhik/ShipBot](https://github.com/riZZZhik/ShipBot)
@@ -62,36 +67,36 @@
 ## 👨‍💻 My WakaTime statistics:
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C046%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-532.7%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 809.2 kB Used in GitHub's Storage 
- > 
+> 📦 809.2 kB Used in GitHub's Storage
+>
 > 🏆 115 Contributions in the Year 2023
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 16 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
+>
+> 📜 16 Public Repositories
+>
+> 🔑 3 Private Repositories
+>
+> 📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Europe/Moscow
 
-🐱‍💻 Projects: 
-tts-core                 1 hr 37 mins        ██████████░░░░░░░░░░░░░░░   38.82 % 
-hse_compds_1             1 hr 22 mins        ████████░░░░░░░░░░░░░░░░░   32.83 % 
-ShipBot                  38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-fitness_brouski          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-homebrew                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+🐱‍💻 Projects:
+tts-core                 1 hr 37 mins        ██████████░░░░░░░░░░░░░░░   38.82 %
+hse_compds_1             1 hr 22 mins        ████████░░░░░░░░░░░░░░░░░   32.83 %
+ShipBot                  38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.16 %
+fitness_brouski          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+homebrew                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
 ```
-
 
 <!--END_SECTION:waka-->
