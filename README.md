@@ -67,36 +67,36 @@
 ## 👨‍💻 My WakaTime statistics:
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C049%20hrs%2040%20mins-blue)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C046%20hrs%2059%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-532.7%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 📦 809.2 kB Used in GitHub's Storage
->
-> 🏆 115 Contributions in the Year 2023
->
+> 📦 809.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 116 Contributions in the Year 2023
+ > 
 > 💼 Opted to Hire
->
-> 📜 16 Public Repositories
->
-> 🔑 3 Private Repositories
->
-> 📊 **This Week I Spent My Time On**
+ > 
+> 📜 16 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Europe/Moscow
 
-🐱‍💻 Projects:
-tts-core                 1 hr 37 mins        ██████████░░░░░░░░░░░░░░░   38.82 %
-hse_compds_1             1 hr 22 mins        ████████░░░░░░░░░░░░░░░░░   32.83 %
-ShipBot                  38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.16 %
-fitness_brouski          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-homebrew                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+🐱‍💻 Projects: 
+hse_compds_1             2 hrs 17 mins       ████████████░░░░░░░░░░░░░   48.14 % 
+tts-core                 1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   38.98 % 
+homebrew                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+tts-core-bot             9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
+
 
 <!--END_SECTION:waka-->
