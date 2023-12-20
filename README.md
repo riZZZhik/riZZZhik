@@ -67,7 +67,7 @@
 ## 👨‍💻 My WakaTime statistics:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C147%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C149%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -85,18 +85,5 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Moscow
-
-🐱‍💻 Projects: 
-test-tts-core            5 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   35.92 % 
-hse_compds_1             4 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   32.95 % 
-tts-core                 3 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   27.83 % 
-.dotfiles                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-tts-server-triton-gradtts11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-```
-
 
 <!--END_SECTION:waka-->
