@@ -67,17 +67,17 @@
 ## 👨‍💻 My WakaTime statistics:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C149%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C152%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-537.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-537.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 812.8 kB Used in GitHub's Storage 
  > 
-> 🏆 142 Contributions in the Year 2023
+> 🏆 146 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -85,5 +85,18 @@
  > 
 > 🔑 3 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+🐱‍💻 Projects: 
+hse_compds_1             8 hrs 49 mins       ████████████░░░░░░░░░░░░░   49.01 % 
+test-tts-core            4 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
+tts-core                 4 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+.dotfiles                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+tts-server-triton-gradtts11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+```
+
 
 <!--END_SECTION:waka-->
