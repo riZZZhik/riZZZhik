@@ -85,5 +85,15 @@
  > 
 > 🔑 3 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+🐱‍💻 Projects: 
+hse_compds_1             1 hr 23 mins        ███████████████████████░░   93.23 % 
+tts-core                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+```
+
 
 <!--END_SECTION:waka-->
