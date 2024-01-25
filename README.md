@@ -67,9 +67,9 @@
 ## 👨‍💻 My WakaTime statistics:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C180%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C181%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-538.6%20thousand%20lines%20of%20code-blue)
 
@@ -85,5 +85,16 @@
  > 
 > 🔑 3 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+🐱‍💻 Projects: 
+grad-tts                 6 hrs 50 mins       ███████████████████████░░   92.20 % 
+d.barsukov               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+research_pauses          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+```
+
 
 <!--END_SECTION:waka-->
