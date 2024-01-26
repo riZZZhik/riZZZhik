@@ -71,13 +71,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-538.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-538.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 813.9 kB Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2024
+> 🏆 6 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -91,9 +91,8 @@
 🕑︎ Time Zone: Europe/Moscow
 
 🐱‍💻 Projects: 
-grad-tts                 6 hrs 50 mins       ███████████████████████░░   92.20 % 
-d.barsukov               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-research_pauses          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+grad-tts                 4 hrs 39 mins       █████████████████████████   99.96 % 
+research_pauses          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 
