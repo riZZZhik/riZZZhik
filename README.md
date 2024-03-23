@@ -53,11 +53,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [Updated Database flow](https://github.com/riZZZhik/ShipBot/releases/tag/1.3.0) in [riZZZhik/ShipBot](https://github.com/riZZZhik/ShipBot)
-2. 🎉 Merged PR [#2](https://github.com/riZZZhik/ShipBot/pull/2) in [riZZZhik/ShipBot](https://github.com/riZZZhik/ShipBot)
-3. 💪 Opened PR [#2](https://github.com/riZZZhik/ShipBot/pull/2) in [riZZZhik/ShipBot](https://github.com/riZZZhik/ShipBot)
-4. 🚀 Published release [Refactored](https://github.com/riZZZhik/ShipBot/releases/tag/1.2.0) in [riZZZhik/ShipBot](https://github.com/riZZZhik/ShipBot)
-5. 🎉 Merged PR [#1](https://github.com/riZZZhik/ShipBot/pull/1) in [riZZZhik/ShipBot](https://github.com/riZZZhik/ShipBot)
+1. 🎉 Merged PR [#5](https://github.com/riZZZhik/todo_app/pull/5) in [riZZZhik/todo_app](https://github.com/riZZZhik/todo_app)
+2. 💪 Opened PR [#5](https://github.com/riZZZhik/todo_app/pull/5) in [riZZZhik/todo_app](https://github.com/riZZZhik/todo_app)
+3. 🎉 Merged PR [#4](https://github.com/riZZZhik/todo_app/pull/4) in [riZZZhik/todo_app](https://github.com/riZZZhik/todo_app)
+4. 💪 Opened PR [#4](https://github.com/riZZZhik/todo_app/pull/4) in [riZZZhik/todo_app](https://github.com/riZZZhik/todo_app)
+5. 🎉 Merged PR [#3](https://github.com/riZZZhik/todo_app/pull/3) in [riZZZhik/todo_app](https://github.com/riZZZhik/todo_app)
 <!--END_SECTION:activity-->
 
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riZZZhik&bg_color=282C34&color=E3BE7A&line=DE6D74&point=E3BE7A&hide_border=true&area=true&area_color=DE6D74)
