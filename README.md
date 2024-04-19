@@ -53,11 +53,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/riZZZhik/todo_app/pull/6) in [riZZZhik/todo_app](https://github.com/riZZZhik/todo_app)
-2. 🎉 Merged PR [#5](https://github.com/riZZZhik/todo_app/pull/5) in [riZZZhik/todo_app](https://github.com/riZZZhik/todo_app)
-3. 💪 Opened PR [#5](https://github.com/riZZZhik/todo_app/pull/5) in [riZZZhik/todo_app](https://github.com/riZZZhik/todo_app)
-4. 🎉 Merged PR [#4](https://github.com/riZZZhik/todo_app/pull/4) in [riZZZhik/todo_app](https://github.com/riZZZhik/todo_app)
-5. 💪 Opened PR [#4](https://github.com/riZZZhik/todo_app/pull/4) in [riZZZhik/todo_app](https://github.com/riZZZhik/todo_app)
+1. 🗣 Commented on [#9037](https://github.com/pytest-dev/pytest/issues/9037#issuecomment-2063010707) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+2. 🎉 Merged PR [#6](https://github.com/riZZZhik/todo_app/pull/6) in [riZZZhik/todo_app](https://github.com/riZZZhik/todo_app)
+3. 🎉 Merged PR [#5](https://github.com/riZZZhik/todo_app/pull/5) in [riZZZhik/todo_app](https://github.com/riZZZhik/todo_app)
+4. 💪 Opened PR [#5](https://github.com/riZZZhik/todo_app/pull/5) in [riZZZhik/todo_app](https://github.com/riZZZhik/todo_app)
+5. 🎉 Merged PR [#4](https://github.com/riZZZhik/todo_app/pull/4) in [riZZZhik/todo_app](https://github.com/riZZZhik/todo_app)
 <!--END_SECTION:activity-->
 
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riZZZhik&bg_color=282C34&color=E3BE7A&line=DE6D74&point=E3BE7A&hide_border=true&area=true&area_color=DE6D74)
