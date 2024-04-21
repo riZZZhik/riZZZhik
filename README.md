@@ -53,11 +53,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#11041](https://github.com/astral-sh/ruff/issues/11041#issuecomment-2066649204) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-2. ❗ Opened issue [#11041](https://github.com/astral-sh/ruff/issues/11041) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-3. 🗣 Commented on [#9037](https://github.com/pytest-dev/pytest/issues/9037#issuecomment-2063010707) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-4. 🎉 Merged PR [#6](https://github.com/riZZZhik/todo_app/pull/6) in [riZZZhik/todo_app](https://github.com/riZZZhik/todo_app)
-5. 🎉 Merged PR [#5](https://github.com/riZZZhik/todo_app/pull/5) in [riZZZhik/todo_app](https://github.com/riZZZhik/todo_app)
+1. 🗣 Commented on [#11041](https://github.com/astral-sh/ruff/issues/11041#issuecomment-2067721094) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+2. 🗣 Commented on [#11041](https://github.com/astral-sh/ruff/issues/11041#issuecomment-2067710026) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+3. 🗣 Commented on [#11041](https://github.com/astral-sh/ruff/issues/11041#issuecomment-2067709764) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+4. 🗣 Commented on [#2577](https://github.com/gitkraken/vscode-gitlens/issues/2577#issuecomment-2067708725) in [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens)
+5. 🗣 Commented on [#11041](https://github.com/astral-sh/ruff/issues/11041#issuecomment-2066649204) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
 <!--END_SECTION:activity-->
 
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riZZZhik&bg_color=282C34&color=E3BE7A&line=DE6D74&point=E3BE7A&hide_border=true&area=true&area_color=DE6D74)
