@@ -67,7 +67,7 @@
 ## 👨‍💻 My WakaTime statistics:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C306%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C307%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -76,6 +76,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 835.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -89,10 +91,10 @@
 🕑︎ Time Zone: Europe/Moscow
 
 🐱‍💻 Projects: 
-tts-core                 6 hrs 3 mins        █████████████████████░░░░   83.42 % 
-hse_compds_1             40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Unknown Project          31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-homebrew                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+tts-core                 2 hrs 31 mins       █████████████████░░░░░░░░   67.68 % 
+hse_compds_1             40 mins             █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+Unknown Project          31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+homebrew                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 
 
