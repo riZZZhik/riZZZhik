@@ -12,6 +12,8 @@
 
 - [Curriculum Vitae](https://github.com/riZZZhik/riZZZhik/blob/main/cv.pdf)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
+
 <div>
  <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=riZZZhik&theme=onedark&show_icons=true&hide_border=True&count_private=true">
  <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riZZZhik&layout=compact&theme=onedark&hide_border=True&count_private=true">
