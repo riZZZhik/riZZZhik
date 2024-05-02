@@ -8,6 +8,10 @@
  <h2>Python Machine Learning (esp. CV and TTS) developer</h2>
 </div>
 
+### Hiring stuff
+
+- [Curriculum Vitae](https://github.com/riZZZhik/riZZZhik/blob/main/cv.pdf)
+
 <div>
  <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=riZZZhik&theme=onedark&show_icons=true&hide_border=True&count_private=true">
  <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riZZZhik&layout=compact&theme=onedark&hide_border=True&count_private=true">
@@ -67,32 +71,32 @@
 ## 👨‍💻 My WakaTime statistics:
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C307%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 835.4 kB Used in GitHub's Storage 
- > 
+> 📦 835.4 kB Used in GitHub's Storage
+>
 > 💼 Opted to Hire
- > 
-> 📜 17 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
+>
+> 📜 17 Public Repositories
+>
+> 🔑 3 Private Repositories
+>
+> 📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Europe/Moscow
 
-🐱‍💻 Projects: 
-tts-core                 2 hrs 8 mins        ███████████████░░░░░░░░░░   60.36 % 
-hse_compds_1             53 mins             ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
-Unknown Project          31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+🐱‍💻 Projects:
+tts-core                 2 hrs 8 mins        ███████████████░░░░░░░░░░   60.36 %
+hse_compds_1             53 mins             ██████░░░░░░░░░░░░░░░░░░░   24.87 %
+Unknown Project          31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.77 %
 ```
-
 
 <!--END_SECTION:waka-->
