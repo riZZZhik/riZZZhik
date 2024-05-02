@@ -53,11 +53,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [Updated Database flow](https://github.com/riZZZhik/ShipBot/releases/tag/1.3.0) in [riZZZhik/ShipBot](https://github.com/riZZZhik/ShipBot)
-2. 🎉 Merged PR [#2](https://github.com/riZZZhik/ShipBot/pull/2) in [riZZZhik/ShipBot](https://github.com/riZZZhik/ShipBot)
-3. 💪 Opened PR [#2](https://github.com/riZZZhik/ShipBot/pull/2) in [riZZZhik/ShipBot](https://github.com/riZZZhik/ShipBot)
-4. 🚀 Published release [Refactored](https://github.com/riZZZhik/ShipBot/releases/tag/1.2.0) in [riZZZhik/ShipBot](https://github.com/riZZZhik/ShipBot)
-5. 🎉 Merged PR [#1](https://github.com/riZZZhik/ShipBot/pull/1) in [riZZZhik/ShipBot](https://github.com/riZZZhik/ShipBot)
+1. 🗣 Commented on [#11041](https://github.com/astral-sh/ruff/issues/11041#issuecomment-2067721094) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+2. 🗣 Commented on [#11041](https://github.com/astral-sh/ruff/issues/11041#issuecomment-2067710026) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+3. 🗣 Commented on [#11041](https://github.com/astral-sh/ruff/issues/11041#issuecomment-2067709764) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+4. 🗣 Commented on [#2577](https://github.com/gitkraken/vscode-gitlens/issues/2577#issuecomment-2067708725) in [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens)
+5. 🗣 Commented on [#11041](https://github.com/astral-sh/ruff/issues/11041#issuecomment-2066649204) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
 <!--END_SECTION:activity-->
 
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riZZZhik&bg_color=282C34&color=E3BE7A&line=DE6D74&point=E3BE7A&hide_border=true&area=true&area_color=DE6D74)
@@ -67,36 +67,32 @@
 ## 👨‍💻 My WakaTime statistics:
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C307%20hrs%2050%20mins-blue)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C046%20hrs%2059%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-532.7%20thousand%20lines%20of%20code-blue)
+**🐱 My GitHub Data** 
 
-**🐱 My GitHub Data**
-
-> 📦 809.2 kB Used in GitHub's Storage
->
-> 🏆 115 Contributions in the Year 2023
->
+> 📦 835.4 kB Used in GitHub's Storage 
+ > 
 > 💼 Opted to Hire
->
-> 📜 16 Public Repositories
->
-> 🔑 3 Private Repositories
->
-> 📊 **This Week I Spent My Time On**
+ > 
+> 📜 17 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Europe/Moscow
 
-🐱‍💻 Projects:
-tts-core                 1 hr 37 mins        ██████████░░░░░░░░░░░░░░░   38.82 %
-hse_compds_1             1 hr 22 mins        ████████░░░░░░░░░░░░░░░░░   32.83 %
-ShipBot                  38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.16 %
-fitness_brouski          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-homebrew                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+🐱‍💻 Projects: 
+tts-core                 2 hrs 8 mins        ███████████████░░░░░░░░░░   60.36 % 
+hse_compds_1             53 mins             ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+Unknown Project          31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
 ```
+
 
 <!--END_SECTION:waka-->
