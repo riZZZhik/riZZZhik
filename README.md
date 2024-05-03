@@ -73,32 +73,17 @@
 ## 👨‍💻 My WakaTime statistics:
 
 <!--START_SECTION:waka-->
-
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C307%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C312%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data**
-
-> 📦 835.4 kB Used in GitHub's Storage
->
-> 💼 Opted to Hire
->
-> 📜 17 Public Repositories
->
-> 🔑 3 Private Repositories
->
-> 📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Europe/Moscow
-
-🐱‍💻 Projects:
-tts-core                 2 hrs 8 mins        ███████████████░░░░░░░░░░   60.36 %
-hse_compds_1             53 mins             ██████░░░░░░░░░░░░░░░░░░░   24.87 %
-Unknown Project          31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.77 %
 ```
+
 
 <!--END_SECTION:waka-->
