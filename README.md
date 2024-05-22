@@ -15,9 +15,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
 <div>
- <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=riZZZhik&theme=onedark&show_icons=true&hide_border=True&count_private=true">
- <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riZZZhik&layout=compact&theme=onedark&hide_border=True&count_private=true">
-
  <div align="left" width="40%">
   <h3>💻 Technologies</h3>
   <a href="https://apple.com"><img alt="OS" src="https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=Apple"></a>
@@ -73,17 +70,17 @@
 ## 👨‍💻 My WakaTime statistics:
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C342%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Europe/Moscow
 ```
-
 
 <!--END_SECTION:waka-->
