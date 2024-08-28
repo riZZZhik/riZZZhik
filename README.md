@@ -1,5 +1,4 @@
 <div align="center">
- <img width="50%" alt="super_dog" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif"><br>
  <h1>
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24"/>
     Hi, I am Dmitry Barsukoff
@@ -15,8 +14,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
 <div>
- <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=riZZZhik&theme=onedark&show_icons=true&hide_border=True&count_private=true">
- <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riZZZhik&layout=compact&theme=onedark&hide_border=True&count_private=true">
+ <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=riZZZhik&theme=default#gh-light-mode-only&show_icons=true&hide_border=True&count_private=true">
+ <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riZZZhik&layout=compact&theme=default#gh-light-mode-only&hide_border=True&count_private=true">
+
+ <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=riZZZhik&theme=dark#gh-dark-mode-only&show_icons=true&hide_border=True&count_private=true">
+ <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riZZZhik&layout=compact&theme=dark#gh-dark-mode-only&hide_border=True&count_private=true">
 
  <div align="left" width="40%">
   <h3>💻 Technologies</h3>
@@ -67,3 +69,9 @@
 <!--END_SECTION:activity-->
 
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riZZZhik&bg_color=282C34&color=E3BE7A&line=DE6D74&point=E3BE7A&hide_border=true&area=true&area_color=DE6D74)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"><br>
+
+<div align="center">
+   <img width="50%" alt="super_dog" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif">
+</div>
