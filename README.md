@@ -14,11 +14,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
 <div>
- <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=riZZZhik&theme=default#gh-light-mode-only&show_icons=true&hide_border=True&count_private=true">
- <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riZZZhik&layout=compact&theme=default#gh-light-mode-only&hide_border=True&count_private=true">
-
- <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=riZZZhik&theme=dark#gh-dark-mode-only&show_icons=true&hide_border=True&count_private=true">
- <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riZZZhik&layout=compact&theme=dark#gh-dark-mode-only&hide_border=True&count_private=true">
+ <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=riZZZhik&theme=transparent&show_icons=true&hide_border=True&count_private=true">
+ <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riZZZhik&layout=compact&theme=transparent&hide_border=True&count_private=true">
 
  <div align="left" width="40%">
   <h3>💻 Technologies</h3>
