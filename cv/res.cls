@@ -792,6 +792,7 @@
 \itemsep \parsep}
 
 \pagestyle{empty}  % don't want page numbers
+% \pagestyle{plain}  % if want page numbers
 
 \begin{format}
 \title{l}\employer{r}\\
