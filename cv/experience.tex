@@ -4,29 +4,54 @@
 \textbf{MTS AI} \hfill June 2022 - Present \\
 Senior Machine Learning Engineer
 
-Development of a Text-to-Speech service that surpasses leading competitors in the Russian language. \\
-Main responsibilities: model inference optimization, deployment, and supporting business logic. \\
-Achieved \textbf{0.12} p95 latency and \textbf{80} RPS on a single \textbf{2g.20Gb} A100 instance. \\
-\textbf{Technologies:} Python, Golang, PyTorch, WandB / ClearML, Triton Server, Observability, Docker + Kubernetes, Git + CI/CD
+Development of a Text-to-Speech, Speech-to-Text, and ASR services that outperform leading competitors in the Russian language.
+
+\textbf{Responsibilities:}
+
+\begin{itemize}[left=0pt, label={--}]
+    \item Model deployment using Triton Server, Docker, Kubernetes, Python, and Golang.
+    \item Model optimization for performance and resource efficiency:
+    \begin{itemize}[topsep=0pt]
+        \item Model architecture changes
+        \item TensorRT, tritonlang, torchcompile and OpenVINO
+        \item Model warmup, quantization, sparsity and pruning
+    \end{itemize}
+    \item Research, develop, train and fine-tune new model architectures.
+\end{itemize}
+
+\textbf{Achievements:}
+
+\begin{itemize}[left=0pt, label={--}]
+    \item \textbf{0.12} p95 latency and \textbf{90} RPS for diffusion model on a single \textbf{2g.20Gb} A100 instance.
+    \item Established and automated a version-controlled model deployment process using CI/CD, WandB / ClearML, and Artifactory.
+    \item The development process was established following best practices (e.g., CI/CD, code review, documentation, unit testing, changelog, semantic versioning, etc.).
+    \item Created an automated quality and performance testing in a production-like Kubernetes environment.
+    \item Implemented comprehensive observability with monitoring, logging, and alerting.
+\end{itemize}
+
+\textbf{Technologies:} \\
+Python, Golang, PyTorch, tritonlang, CUDA C++, torchcompile, TensorRT, WandB / ClearML, Triton Server, Observability, Docker + Kubernetes, Git + CI/CD
 
 \textbf{SIRIN} \hfill March 2021 - January 2022 \\
 Senior Machine Learning Developer
 
-Development of a service using computer vision for automatic opening of car barriers. \\
-Main responsibilities: researching model architectures, finding/generating datasets, training, and deploying models. \\
-Achieved \textbf{99\%} accuracy in recognizing Russian license plates and \textbf{90\%} accuracy in recognizing license plates overall with \textbf{0.5} latency on an \textbf{8}-core CPU. \\
+Designed and built from scratch an end-to-end machine learning service for the automatic opening of car barriers using computer vision. \\
+Achieved \textbf{99\%} accuracy in recognizing Russian license plates and \textbf{90\%} accuracy for all other license plates, maintaining a latency of \textbf{0.5} on a \textbf{4}-core CPU.
+
 \textbf{Technologies:} Python, PyTorch, OpenCV, Docker + Kubernetes, OpenVINO + Triton Server, Observability (Grafana, Kibana, Prometheus), Git + CI/CD
 
 \textbf{ITMO University} \hfill January 2020 - December 2020 \\
 Machine Learning Developer
 
-End-to-end development of a service for building facade segmentation. \\
+Designed and implemented from scratch an end-to-end service for building facade segmentation, managing everything from data collection and preprocessing to model training, evaluation, and deployment.
+
 \textbf{Technologies:} Python, TensorFlow + Keras, OpenCV, Docker, Git
 
 \textbf{SPIIRAS} \hfill August 2018 - October 2020 \\
 Middle Machine Learning developer
 
-End-to-end development of a service for recognizing the faces of employees. \\
+Designed and implemented from scratch an end-to-end facial recognition service for employees, covering everything from data collection/generation and preprocessing to model training, evaluation, and deployment.
+
 \textbf{Technologies:} Python, TensorFlow + Keras, RealSense DepthCamera, OpenCV, Docker, Git
 
 \endinput
