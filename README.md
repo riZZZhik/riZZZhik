@@ -18,11 +18,6 @@
  <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riZZZhik&layout=compact&theme=transparent&hide_border=True&count_private=true">
 
  <div align="left" width="40%">
-  <h3>💻 Technologies</h3>
-  <a href="https://apple.com"><img alt="OS" src="https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=Apple"></a>
-  <a href="https://code.visualstudio.com"><img alt="Editor" src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual Studio Code"></a>
-  <a href="https://python.org"><img alt="Python" src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=blue"></a>
-  <br>
   <h3>🛠️ Tools</h3>
   <a href="https://docker.com"><img alt="Docker" src="https://img.shields.io/badge/Docker-Docker?style=flat&logo=Docker&logoColor=white&color=blue"></a>
   <a href="https://kubernetes.io"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-Kubernetes?style=flat&logo=Kubernetes&logoColor=white&color=blue"></a>
