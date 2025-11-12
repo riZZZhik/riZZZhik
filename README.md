@@ -53,7 +53,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [MTS AI era](https://github.com/riZZZhik/dotfiles/releases/tag/1.0.0) in [riZZZhik/dotfiles](https://github.com/riZZZhik/dotfiles)
+1. 🗣 Commented on [#2443](https://github.com/NVIDIA/TensorRT-LLM/issues/2443#issuecomment-3516247553) in [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
 2. ❗ Opened issue [#7530](https://github.com/triton-inference-server/server/issues/7530) in [triton-inference-server/server](https://github.com/triton-inference-server/server)
 3. ❗ Opened issue [#3471](https://github.com/gitkraken/vscode-gitlens/issues/3471) in [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens)
 4. 🗣 Commented on [#402](https://github.com/state-spaces/mamba/pull/402#issuecomment-2269350231) in [state-spaces/mamba](https://github.com/state-spaces/mamba)
