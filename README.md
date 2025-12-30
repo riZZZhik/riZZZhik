@@ -53,11 +53,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#8564](https://github.com/NVIDIA/TensorRT-LLM/issues/8564#issuecomment-3611953070) in [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
-2. 🗣 Commented on [#9656](https://github.com/NVIDIA/TensorRT-LLM/issues/9656#issuecomment-3606399410) in [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
-3.  Labeled issue [#9656](https://github.com/NVIDIA/TensorRT-LLM/issues/9656) in [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
-4. ❗ Opened issue [#9656](https://github.com/NVIDIA/TensorRT-LLM/issues/9656) in [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
-5.  Assigned issue [#9656](https://github.com/NVIDIA/TensorRT-LLM/issues/9656) in [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
+1. 🗣 Commented on [#10329](https://github.com/NVIDIA/TensorRT-LLM/pull/10329#issuecomment-3696641883) in [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
+2. 💪 Opened PR [#10329](undefined) in [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
+3. ❌ Closed PR [#10328](undefined) in [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
+4. 💪 Opened PR [#10328](undefined) in [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
+5. 🗣 Commented on [#8564](https://github.com/NVIDIA/TensorRT-LLM/issues/8564#issuecomment-3611953070) in [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
 <!--END_SECTION:activity-->
 
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riZZZhik&bg_color=282C34&color=E3BE7A&line=DE6D74&point=E3BE7A&hide_border=true&area=true&area_color=DE6D74)
