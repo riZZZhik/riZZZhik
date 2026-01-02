@@ -56,8 +56,8 @@
 1. 🗣 Commented on [#10329](https://github.com/NVIDIA/TensorRT-LLM/pull/10329#issuecomment-3698523256) in [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
 2. 🗣 Commented on [#9656](https://github.com/NVIDIA/TensorRT-LLM/issues/9656#issuecomment-3698482577) in [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
 3. 🗣 Commented on [#10329](https://github.com/NVIDIA/TensorRT-LLM/pull/10329#issuecomment-3696641883) in [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
-4. 💪 Opened PR [#10329](undefined) in [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
-5. ❌ Closed PR [#10328](undefined) in [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
+4. 💪 Opened PR [#10329](https://github.com/NVIDIA/TensorRT-LLM/pull/10329) in [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
+5. ❌ Closed PR [#10328](https://github.com/NVIDIA/TensorRT-LLM/pull/10328) in [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
 <!--END_SECTION:activity-->
 
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riZZZhik&bg_color=282C34&color=E3BE7A&line=DE6D74&point=E3BE7A&hide_border=true&area=true&area_color=DE6D74)
