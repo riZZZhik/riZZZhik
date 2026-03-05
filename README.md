@@ -53,10 +53,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#26](https://github.com/Tencent/hpc-ops/issues/26#issuecomment-3870580666) in [Tencent/hpc-ops](https://github.com/Tencent/hpc-ops)
-2. 🎉 Merged PR [#10644](https://github.com/NVIDIA/TensorRT-LLM/pull/10644) in [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
-3. 🎉 Merged PR [#10662](https://github.com/NVIDIA/TensorRT-LLM/pull/10662) in [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
-4. 🗣 Commented on [#10644](https://github.com/NVIDIA/TensorRT-LLM/pull/10644#issuecomment-3829361747) in [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
+1. 🗣 Commented on [#18489](https://github.com/sgl-project/sglang/pull/18489#issuecomment-3996696496) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
+2. 🗣 Commented on [#18489](https://github.com/sgl-project/sglang/pull/18489#issuecomment-3996691840) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
+3. 🗣 Commented on [#26](https://github.com/Tencent/hpc-ops/issues/26#issuecomment-3870580666) in [Tencent/hpc-ops](https://github.com/Tencent/hpc-ops)
+4. 🎉 Merged PR [#10644](https://github.com/NVIDIA/TensorRT-LLM/pull/10644) in [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
 5. 🗣 Commented on [#14816](https://github.com/sgl-project/sglang/issues/14816#issuecomment-3811129058) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
 <!--END_SECTION:activity-->
 
