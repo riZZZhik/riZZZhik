@@ -4,14 +4,18 @@
     Hi, I am Dmitry Barsukoff
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24"/>
  </h1>
- <h2>Data Scientist & MLE who teaches computers to chat, see, hear and speak.</h2>
+ <h2>Teaching computers to chat, see, hear, and speak.</h2>
 </div>
 
-### Hiring stuff
+## Currently
 
-- [Curriculum Vitae](https://github.com/riZZZhik/riZZZhik/blob/main/cv.pdf)
-- <a href="https://t.me/riZZZhik"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-riZZZhik-informational?style=flat&logo=Telegram"></a>
-- <a href="mailto:riZZZhik@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Mail-riZZZhik@gmail.com-informational?style=flat&logo=GMail&logoColor=white"></a>
+Optimizing high-scale LLM inference @ [TBank](https://www.tbank.ru/).
+
+## Contact
+
+[![CV](https://img.shields.io/badge/CV-PDF-informational?style=flat&logo=readthedocs&logoColor=white)](https://github.com/riZZZhik/riZZZhik/blob/main/cv.pdf)
+[![Telegram](https://img.shields.io/badge/Telegram-riZZZhik-informational?style=flat&logo=Telegram)](https://t.me/riZZZhik)
+[![Email](https://img.shields.io/badge/Email-riZZZhik%40gmail.com-informational?style=flat&logo=GMail&logoColor=white)](mailto:riZZZhik@gmail.com4)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
