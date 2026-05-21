@@ -23,11 +23,11 @@ Optimizing high-scale LLM inference @ [TBank](https://www.tbank.ru/).
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2039](https://github.com/kvcache-ai/Mooncake/issues/2039#issuecomment-4396219834) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
-2. 🗣 Commented on [#2039](https://github.com/kvcache-ai/Mooncake/issues/2039#issuecomment-4395906601) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
-3. 🗣 Commented on [#2039](https://github.com/kvcache-ai/Mooncake/issues/2039#issuecomment-4388720973) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
-4. 🗣 Commented on [#2039](https://github.com/kvcache-ai/Mooncake/issues/2039#issuecomment-4386111152) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
-5. ℹ️ Labeled issue [#2039](https://github.com/kvcache-ai/Mooncake/issues/2039) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
+1. 🗣 Commented on [#2039](https://github.com/kvcache-ai/Mooncake/issues/2039#issuecomment-4495899998) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
+2. 🗣 Commented on [#2039](https://github.com/kvcache-ai/Mooncake/issues/2039#issuecomment-4495855543) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
+3. 🗣 Commented on [#2039](https://github.com/kvcache-ai/Mooncake/issues/2039#issuecomment-4396219834) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
+4. 🗣 Commented on [#2039](https://github.com/kvcache-ai/Mooncake/issues/2039#issuecomment-4395906601) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
+5. 🗣 Commented on [#2039](https://github.com/kvcache-ai/Mooncake/issues/2039#issuecomment-4388720973) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
 <!--END_SECTION:activity-->
 
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riZZZhik&bg_color=282C34&color=E3BE7A&line=DE6D74&point=E3BE7A&hide_border=true&area=true&area_color=DE6D74)
