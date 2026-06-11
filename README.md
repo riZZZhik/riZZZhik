@@ -23,11 +23,11 @@ Optimizing high-scale LLM inference @ [TBank](https://www.tbank.ru/).
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Assigned PR [#3](https://github.com/riZZZhik/Mooncake/pull/3) in [riZZZhik/Mooncake](https://github.com/riZZZhik/Mooncake)
-2. 🗣 Commented on [#2039](https://github.com/kvcache-ai/Mooncake/issues/2039#issuecomment-4629700449) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
-3. 💪 Opened PR [#3](https://github.com/riZZZhik/Mooncake/pull/3) in [riZZZhik/Mooncake](https://github.com/riZZZhik/Mooncake)
-4. 🗣 Commented on [#2039](https://github.com/kvcache-ai/Mooncake/issues/2039#issuecomment-4620248297) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
-5. ❌ Closed PR [#2](https://github.com/riZZZhik/Mooncake/pull/2) in [riZZZhik/Mooncake](https://github.com/riZZZhik/Mooncake)
+1. 🗣 Commented on [#2039](https://github.com/kvcache-ai/Mooncake/issues/2039#issuecomment-4669344543) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
+2. ℹ️ Assigned PR [#3](https://github.com/riZZZhik/Mooncake/pull/3) in [riZZZhik/Mooncake](https://github.com/riZZZhik/Mooncake)
+3. 🗣 Commented on [#2039](https://github.com/kvcache-ai/Mooncake/issues/2039#issuecomment-4629700449) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
+4. 💪 Opened PR [#3](https://github.com/riZZZhik/Mooncake/pull/3) in [riZZZhik/Mooncake](https://github.com/riZZZhik/Mooncake)
+5. 🗣 Commented on [#2039](https://github.com/kvcache-ai/Mooncake/issues/2039#issuecomment-4620248297) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
 <!--END_SECTION:activity-->
 
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riZZZhik&bg_color=282C34&color=E3BE7A&line=DE6D74&point=E3BE7A&hide_border=true&area=true&area_color=DE6D74)
