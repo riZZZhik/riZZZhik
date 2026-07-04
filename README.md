@@ -23,11 +23,11 @@ Optimizing high-scale LLM inference @ [TBank](https://www.tbank.ru/).
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#29955](https://github.com/sgl-project/sglang/issues/29955) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
-2. 💪 Opened PR [#4](https://github.com/riZZZhik/Mooncake/pull/4) in [riZZZhik/Mooncake](https://github.com/riZZZhik/Mooncake)
-3. ℹ️ Labeled issue [#2554](https://github.com/kvcache-ai/Mooncake/issues/2554) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
-4. 🗣 Commented on [#2039](https://github.com/kvcache-ai/Mooncake/issues/2039#issuecomment-4703021272) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
-5. ❗ Opened issue [#28194](https://github.com/sgl-project/sglang/issues/28194) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
+1. 🗣 Commented on [#29955](https://github.com/sgl-project/sglang/issues/29955#issuecomment-4875423559) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
+2. ❗ Opened issue [#29955](https://github.com/sgl-project/sglang/issues/29955) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
+3. 💪 Opened PR [#4](https://github.com/riZZZhik/Mooncake/pull/4) in [riZZZhik/Mooncake](https://github.com/riZZZhik/Mooncake)
+4. ℹ️ Labeled issue [#2554](https://github.com/kvcache-ai/Mooncake/issues/2554) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
+5. 🗣 Commented on [#2039](https://github.com/kvcache-ai/Mooncake/issues/2039#issuecomment-4703021272) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
 <!--END_SECTION:activity-->
 
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riZZZhik&bg_color=282C34&color=E3BE7A&line=DE6D74&point=E3BE7A&hide_border=true&area=true&area_color=DE6D74)
