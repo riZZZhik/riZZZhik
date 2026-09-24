@@ -21,11 +21,11 @@ Optimizing high-scale LLM inference @ [TBank](https://www.tbank.ru/).
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#4285](https://github.com/kvcache-ai/Mooncake/pull/4285) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
-2. ❌ Closed PR [#39974](https://github.com/sgl-project/sglang/pull/39974) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
-3. 💪 Opened PR [#39974](https://github.com/sgl-project/sglang/pull/39974) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
-4. 🗣 Commented on [#22511](https://github.com/sgl-project/sglang/issues/22511#issuecomment-5698917041) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
-5. 🗣 Commented on [#2937](https://github.com/kvcache-ai/Mooncake/issues/2937#issuecomment-5604167666) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
+1. 🎉 Merged PR [#4285](https://github.com/kvcache-ai/Mooncake/pull/4285) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
+2. 💪 Opened PR [#4285](https://github.com/kvcache-ai/Mooncake/pull/4285) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
+3. ❌ Closed PR [#39974](https://github.com/sgl-project/sglang/pull/39974) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
+4. 💪 Opened PR [#39974](https://github.com/sgl-project/sglang/pull/39974) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
+5. 🗣 Commented on [#22511](https://github.com/sgl-project/sglang/issues/22511#issuecomment-5698917041) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
 <!--END_SECTION:activity-->
 
 <div align="center">
