@@ -21,11 +21,11 @@ Optimizing high-scale LLM inference @ [TBank](https://www.tbank.ru/).
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4285](https://github.com/kvcache-ai/Mooncake/pull/4285) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
-2. 💪 Opened PR [#4285](https://github.com/kvcache-ai/Mooncake/pull/4285) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
-3. ❌ Closed PR [#39974](https://github.com/sgl-project/sglang/pull/39974) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
-4. 💪 Opened PR [#39974](https://github.com/sgl-project/sglang/pull/39974) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
-5. 🗣 Commented on [#22511](https://github.com/sgl-project/sglang/issues/22511#issuecomment-5698917041) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
+1. 🗣 Commented on [#35995](https://github.com/ValveSoftware/Dota2-Gameplay/issues/35995#issuecomment-6093299435) in [ValveSoftware/Dota2-Gameplay](https://github.com/ValveSoftware/Dota2-Gameplay)
+2. 🎉 Merged PR [#4285](https://github.com/kvcache-ai/Mooncake/pull/4285) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
+3. 💪 Opened PR [#4285](https://github.com/kvcache-ai/Mooncake/pull/4285) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
+4. ❌ Closed PR [#39974](https://github.com/sgl-project/sglang/pull/39974) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
+5. 💪 Opened PR [#39974](https://github.com/sgl-project/sglang/pull/39974) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
 <!--END_SECTION:activity-->
 
 <div align="center">
