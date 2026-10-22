@@ -21,11 +21,11 @@ Optimizing high-scale LLM inference @ [TBank](https://www.tbank.ru/).
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#28194](https://github.com/sgl-project/sglang/issues/28194#issuecomment-6213496570) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
-2. 🗣 Commented on [#44513](https://github.com/sgl-project/sglang/pull/44513#issuecomment-6196308041) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
-3. 💪 Opened PR [#44513](https://github.com/sgl-project/sglang/pull/44513) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
-4. 🗣 Commented on [#35995](https://github.com/ValveSoftware/Dota2-Gameplay/issues/35995#issuecomment-6093299435) in [ValveSoftware/Dota2-Gameplay](https://github.com/ValveSoftware/Dota2-Gameplay)
-5. 🎉 Merged PR [#4285](https://github.com/kvcache-ai/Mooncake/pull/4285) in [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
+1. 🗣 Commented on [#36847](https://github.com/sgl-project/sglang/pull/36847#issuecomment-6311849908) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
+2. 🗣 Commented on [#44513](https://github.com/sgl-project/sglang/pull/44513#issuecomment-6311293748) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
+3. 🗣 Commented on [#28194](https://github.com/sgl-project/sglang/issues/28194#issuecomment-6213496570) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
+4. 🗣 Commented on [#44513](https://github.com/sgl-project/sglang/pull/44513#issuecomment-6196308041) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
+5. 💪 Opened PR [#44513](https://github.com/sgl-project/sglang/pull/44513) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
 <!--END_SECTION:activity-->
 
 <div align="center">
