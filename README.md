@@ -21,11 +21,11 @@ Optimizing high-scale LLM inference @ [TBank](https://www.tbank.ru/).
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#36847](https://github.com/sgl-project/sglang/pull/36847#issuecomment-6311849908) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
-2. 🗣 Commented on [#44513](https://github.com/sgl-project/sglang/pull/44513#issuecomment-6311293748) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
-3. 🗣 Commented on [#28194](https://github.com/sgl-project/sglang/issues/28194#issuecomment-6213496570) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
-4. 🗣 Commented on [#44513](https://github.com/sgl-project/sglang/pull/44513#issuecomment-6196308041) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
-5. 💪 Opened PR [#44513](https://github.com/sgl-project/sglang/pull/44513) in [sgl-project/sglang](https://github.com/sgl-project/sglang)
+1. ℹ️ Labeled PR [#6](https://github.com/riZZZhik/Mooncake/pull/6) in [riZZZhik/Mooncake](https://github.com/riZZZhik/Mooncake)
+2. ℹ️ Unlabeled PR [#6](https://github.com/riZZZhik/Mooncake/pull/6) in [riZZZhik/Mooncake](https://github.com/riZZZhik/Mooncake)
+3. 💪 Opened PR [#7](https://github.com/riZZZhik/Mooncake/pull/7) in [riZZZhik/Mooncake](https://github.com/riZZZhik/Mooncake)
+4. ℹ️ Labeled PR [#7](https://github.com/riZZZhik/Mooncake/pull/7) in [riZZZhik/Mooncake](https://github.com/riZZZhik/Mooncake)
+5. ❌ Closed PR [#6](https://github.com/riZZZhik/Mooncake/pull/6) in [riZZZhik/Mooncake](https://github.com/riZZZhik/Mooncake)
 <!--END_SECTION:activity-->
 
 <div align="center">
